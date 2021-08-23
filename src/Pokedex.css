@@ -1,0 +1,18 @@
+.Pokedex{
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 15px;
+    width: 85vw;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.Pokedex-deck{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.Pokedex-win-message{
+    color: green;
+}
